@@ -8,6 +8,8 @@ We're definitely going to need a way to decide who has won and who has lost, or
 whether the round has ended in a draw. Using the rules provided, give us an
 engine for deciding this based on the player's moves.
 
+How to run Task1.java : Simply run the java code in intelliJ idea.
+
 Q2.
 You need to write the software to calculate the minimum number of
 coins required to return an amount of change to a user of Acme
